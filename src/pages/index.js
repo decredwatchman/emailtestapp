@@ -29,7 +29,7 @@ export default function Home() {
     //   formData[field.name] = field.value;
     // });
 
-    // await fetch('https://xjobs.netlify.app/client', {
+    // await fetch('api/mail', {
     //   method: 'POST',
     //   body: JSON.stringify(formData)
     // });
